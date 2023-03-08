@@ -1,4 +1,4 @@
-[![Malwarebytes Logo](https://malwarebytes.com/images/malwarebytes-main-logo.png)](https://malwarebytes.com)
+[![Malwarebytes Logo](https://raw.githubusercontent.com/Malwarebytes/.github/main/profile/corp_banner.png)](https://malwarebytes.com)
 
 ## Welcome to Malwarebytes' Github!
 
